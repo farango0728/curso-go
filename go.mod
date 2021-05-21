@@ -7,4 +7,5 @@ require (
 	github.com/ptilotta/twittor v0.0.0-20200419231543-94a3074739ce // indirect
 	github.com/rs/cors v1.7.0
 	go.mongodb.org/mongo-driver v1.5.2
+	golang.org/x/crypto v0.0.0-20200323165209-0ec3e9974c59
 )
